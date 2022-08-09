@@ -16,6 +16,7 @@ public class AppTest
     public void shouldAnswerWithTrue()
     {
         System.out.println("220809-3");
+        System.out.println("220809-4");
         assertTrue( true );
     }
 }
